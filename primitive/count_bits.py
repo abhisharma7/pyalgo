@@ -1,3 +1,6 @@
+# Author: Abhishek Sharma
+# Reference: Element of Programming Interview in Python
+
 def count_bits(num):
     bit_count = 0
     while num:
