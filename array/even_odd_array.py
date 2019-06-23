@@ -3,7 +3,7 @@
 # Reference: Element of Programming Interview Python
 
 
-# Simple Approach: Time Complexity is O(N), Space Complexity O(2N)
+# Simple Approach:
 def simple_even_odd(A):
     ls = []
     for i in A:
