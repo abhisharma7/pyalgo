@@ -28,3 +28,7 @@ def even_odd(A):
 
 print("Simple Approach", simple_even_odd([1, 2, 3, 4, 5, 6]))
 print("Optimized Approach", even_odd([1, 2, 3, 4, 5, 6]))
+
+# Output
+# Simple Approach [6, 4, 2, 1, 3, 5]
+# Optimized Approach [6, 2, 4, 5, 3, 1]
